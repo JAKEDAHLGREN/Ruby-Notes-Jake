@@ -28,7 +28,7 @@ p crystal_gem[:gem2] # "Garnet"
 
  crystal_gem = {gem1:'Pearl', gem2:'Garnet', gem3:'', gem4:'Bismuth'}
 
- # fusions = Hash.new
+ # fusions = hash.new
 
 
 # Update - we can add or modify the data
